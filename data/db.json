@@ -1,0 +1,223 @@
+{
+  "donator": [
+    {
+      "id": 10,
+      "name": "Nadeesha Perera",
+      "phone": "+10701425035",
+      "donate": "/.\\.;",
+      "active": true
+    },
+    {
+      "id": 11,
+      "name": "Kasun Fernando",
+      "phone": "+10701425035",
+      "donate": "khuiyiuyu"
+    },
+    {
+      "id": 12,
+      "name": "Chalani Silva",
+      "address": "kurunegala",
+      "user": "Benificiary",
+      "phone": "0701425035",
+      "donate": "money"
+    },
+    {
+      "name": "Dilshan Jayawardena",
+      "address": "kegalle",
+      "phone": "0748965487",
+      "user": "Benificiary",
+      "donate": "mango",
+      "active": true,
+      "id": 13
+    },
+    {
+      "user": true,
+      "name": "Saduni Wickramasinghe",
+      "address": "kurunegala",
+      "phone": "0112536548",
+      "donate": "money",
+      "active": true,
+      "id": 14
+    },
+    {
+      "user": false,
+      "name": "Chalani Rajamuni",
+      "address": "Sub post office , gabbalagama",
+      "phone": "+10701425035",
+      "donate": "uhihiuh",
+      "active": true,
+      "id": 15
+    },
+    {
+      "user": "benifi",
+      "name": "Nimali Karunaratne",
+      "address": "sdvdf",
+      "phone": "ve434r43",
+      "donate": "vsvervrfe",
+      "active": true,
+      "id": 16
+    },
+    {
+      "user": "do",
+      "name": "Ravindu Senanayake",
+      "address": "uiu",
+      "phone": "uiui",
+      "donate": "uiiu",
+      "active": true,
+      "id": 17
+    },
+    {
+      "name": "Anjali Peris",
+      "address": "",
+      "email": "",
+      "phone": "",
+      "userType": "",
+      "id": 18
+    },
+    {
+      "name": "Saman Kumara",
+      "address": "",
+      "email": "",
+      "phone": "",
+      "userType": "",
+      "id": 19
+    },
+    {
+      "name": "Roshani Fernando",
+      "address": "",
+      "email": "",
+      "phone": "",
+      "userType": "",
+      "id": 20
+    },
+    {
+      "name": "Ishara Madushani",
+      "address": "",
+      "email": "",
+      "phone": "",
+      "userType": "",
+      "id": 21
+    },
+    {
+      "name": "Tharindu Lakshan",
+      "address": "",
+      "email": "",
+      "phone": "",
+      "food": "",
+      "stationary": "",
+      "money": "",
+      "donateType": "",
+      "id": 22
+    },
+    {
+      "name": "Sadamini Noyeli",
+      "address": "Sub post office , gabbalagama",
+      "email": "sadamini@gmail.com",
+      "phone": "+10701425035",
+      "food": "",
+      "stationary": "",
+      "money": "",
+      "donateType": "",
+      "id": 23
+    },
+    {
+      "name": "Sadamini Noyeli",
+      "address": "Sub post office , gabbalagama",
+      "email": "sadamini@gmail.com",
+      "phone": "+10701425035",
+      "food": "",
+      "stationary": "",
+      "money": "",
+      "donateType": "",
+      "id": 24
+    },
+    {
+      "name": "Chamodi Perera",
+      "address": "",
+      "email": "",
+      "phone": "",
+      "food": "",
+      "stationary": "",
+      "money": "",
+      "donateType": "",
+      "id": 25
+    },
+    {
+      "name": "Gayan Perera",
+      "address": "",
+      "email": "",
+      "phone": "",
+      "food": "",
+      "stationary": "",
+      "money": "",
+      "donateType": "",
+      "id": 26
+    },
+    {
+      "name": "Nirosha Silva",
+      "address": "",
+      "email": "",
+      "phone": "",
+      "food": "",
+      "stationary": "",
+      "money": "",
+      "donateType": "",
+      "id": 27
+    },
+    {
+      "name": "Sadamini Noyeli",
+      "address": "Sub post office , gabbalagama",
+      "email": "sadamini@gmail.com",
+      "phone": "+10701425035",
+      "food": "",
+      "stationary": "",
+      "money": "",
+      "donateType": "",
+      "id": 28
+    },
+    {
+      "name": "Sadamini Noyeli",
+      "address": "Sub post office , gabbalagama",
+      "email": "sadamini@gmail.com",
+      "phone": "+10701425035",
+      "food": "",
+      "stationary": "",
+      "money": "",
+      "donateType": "",
+      "id": 29
+    },
+    {
+      "name": "Kavindu Perera",
+      "address": "",
+      "email": "",
+      "phone": "",
+      "food": "",
+      "stationary": "",
+      "money": "",
+      "donateType": "",
+      "id": 30
+    },
+    {
+      "name": "Sadamini Noyeli",
+      "address": "Sub post office , gabbalagama",
+      "email": "sadamini@gmail.com",
+      "phone": "+10701425035",
+      "food": "",
+      "stationary": "",
+      "money": "",
+      "donateType": "",
+      "id": 31
+    },
+    {
+      "name": "Sadamini Noyeli",
+      "address": "Sub post office , gabbalagama",
+      "email": "sadamini@gmail.com",
+      "phone": "+10701425035",
+      "food": "",
+      "stationary": "",
+      "money": "",
+      "donateType": "",
+      "id": 32
+    }
+  ]
+}
