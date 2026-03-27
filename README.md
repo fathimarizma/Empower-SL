@@ -27,9 +27,9 @@ IDE : VS code
 
 Other tools
 
-Sonar qube
-Selenium
-Azure boards
+Sonar qube ,
+Selenium  ,
+Azure boards ,
 Docker
 
 Pre-requisites
