@@ -11,8 +11,8 @@ Empower-SL acts as a bridge between donors and beneficiaries. The platform allow
 
 Key User Groups:
 
-Donors: Individuals or organizations providing support.
-Beneficiaries: People in need of financial help, jobs, or skill development opportunities.
+Donors: Individuals or organizations providing support.,
+Beneficiaries: People in need of financial help, jobs, or skill development opportunities.,
 Administrators: Manage the system, oversee donations, job posts, and course enrollments.
 
 
@@ -20,9 +20,9 @@ Administrators: Manage the system, oversee donations, job posts, and course enro
 
 MERN Stack
 
-frontend : React
-Backend : Node.js
-DB : Mongo
+frontend : React ,
+Backend : Node.js ,
+DB : Mongo  ,
 IDE : VS code
 
 Other tools
@@ -35,5 +35,5 @@ Docker
 Pre-requisites
 
 
-VS code installed
+VS code installed, 
 Node.js installed
